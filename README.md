@@ -1,6 +1,19 @@
-# myfirstflutter_app
+# Flutter Example App.
 
-A first Flutter application.
+This is a flutter example app where I have used multiple widgets.
+
+It has multiple small project:
+
+Instagram UI.
+
+WhatsApp UI.
+
+Calculator.
+
+Game.
+
+And many other.
+
 
 ## Getting Started
 
